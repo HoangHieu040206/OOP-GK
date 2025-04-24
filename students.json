@@ -1,0 +1,41 @@
+[
+    {
+        "type": "SecondYear",
+        "name": "Nguy\u1ec5n Th\u1ecb B",
+        "student_id": "23110222",
+        "age": "19",
+        "gender": "N\u1eef",
+        "email": "ac@gmail.com",
+        "address": "H\u00e0 N\u1ed9i",
+        "major": "BCSE",
+        "gpa": 3.4,
+        "scholarship": "Lo\u1ea1i C"
+    },
+    {
+        "type": "ThirdYear",
+        "name": "Nguy\u1ec5n FF",
+        "student_id": "22110333",
+        "age": "20",
+        "gender": "Nam",
+        "email": "eq@gmail.com",
+        "address": "H\u00e0 N\u1ed9i",
+        "major": "MJM",
+        "gpa": 3.8,
+        "scholarship": "Lo\u1ea1i B",
+        "company": "CTY X"
+    },
+    {
+        "type": "FourthYear",
+        "name": "Nguy\u1ec5n W",
+        "student_id": "21110223",
+        "age": "21",
+        "gender": "N\u1eef",
+        "email": "asd@gmail.com",
+        "address": "H\u00e0 N\u1ed9i",
+        "major": "MJM",
+        "gpa": 4.0,
+        "scholarship": "Lo\u1ea1i A",
+        "company": "CTY QQ",
+        "project": "AI"
+    }
+]
